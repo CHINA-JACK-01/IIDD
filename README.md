@@ -9,5 +9,5 @@ Baidu Driver
 
 # Notification
 
-This work is contributed by the paper The Defect Detection and Classification of Malleable Cast Iron Pipe Fittings to
-Promote the Intelligent Manufacturing of Medium or Small Factory. You can only use this dataset for research purpose.
+This work is contributed by the paper <The Defect Detection and Classification of Malleable Cast Iron Pipe Fittings to
+Promote the Intelligent Manufacturing of Medium or Small Factory>. You can only use this dataset for research purpose.
