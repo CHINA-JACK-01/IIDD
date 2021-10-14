@@ -1,5 +1,5 @@
 # IIDD
 INSSLab Industrial Defect DataSet
 Baidu Driver
-link:
-code:
+链接：https://pan.baidu.com/s/1vrFG0pzFCYdZHSrB8Mnacw 
+提取码：a98k 
